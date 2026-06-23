@@ -24,3 +24,13 @@ thumb, index, middle finger open = close the app itself.
 all fingers open = default recognized gesture to do nothing.
 
 note: there is a 0.3 second wait time before the next command executes to avoid spam/ unintentional over use.
+
+
+link to download .exe files:
+• one file - 100MG. 
+
+https://drive.google.com/file/d/1PqHbFZuxkbeTMQ_HRB5MllsmLwhHwhRc/view?usp=drivesdk
+
+• dir (folder) - 80MG. 
+
+https://drive.google.com/file/d/1GZnSySC9VxUSBOs9ix3pLklYv0ZdK7x-/view?usp=drivesdk
